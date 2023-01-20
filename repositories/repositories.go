@@ -5,6 +5,7 @@ import (
 	"fmt"
 
 	"github.com/boltdb/bolt"
+
 	"github.com/storyofhis/go-payment/config"
 	"github.com/storyofhis/go-payment/repositories/models"
 )
